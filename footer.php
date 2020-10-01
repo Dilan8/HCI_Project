@@ -20,7 +20,7 @@
          border-top: 1px solid black;
       }
 
-      footer .item form input {
+      footer .items form input {
          width: 100%;
          margin-bottom: 15px;
          padding: 10px 10px;
@@ -34,19 +34,19 @@
          border: none;
          background: #0c4da2;
          color: #fff;
-         font-size: 13px;
+         font-size: 11px;
          text-transform: uppercase;
          width: 111px;
          height: 43px;
          cursor: pointer;
       }
 
-      footer div.item.social_icon li {
+      footer div.items.social_icon li {
          float: left;
          width: auto;
       }
 
-      footer .item ul li {
+      footer .items ul li {
          font-weight: 300;
          font-size: 30px;
          width: 100%;
@@ -80,7 +80,7 @@
          <div class="row">
 
             <div class="col-lg-3 col-md-6 col-12">
-               <div class="item">
+               <div class="items">
                   <h4>Adderss</h4>
                   <p><i class="fas fa-map-marker-alt"></i>30,Stanley Tilakaratne Mawatha,Nugegoda.<br>Nugegoda</p>
                   <p><i class="fas fa-phone-alt"></i>(+94) 11285251</p>
@@ -89,7 +89,7 @@
             </div>
 
             <div class="col-lg-2 col-md-6 col-12">
-               <div class="item">
+               <div class="items">
                   <h4>Company</h4>
                   <ul class="opening_hour_">
                      <li><span class="left_side">AboutUS</span></li>
@@ -101,7 +101,7 @@
                </div>
             </div>
             <div class="col-lg-2 col-md-6 col-12">
-               <div class="item">
+               <div class="items">
                   <h4>HELP</h4>
                   <ul class="opening_hour_">
                      <li><span class="left_side">COntactUs</span></li>
@@ -114,14 +114,14 @@
             </div>
 
             <div class="col-lg-3 col-md-6 col-12">
-               <div class="item">
+               <div class="items">
                   <h4>Newsletter</h4>
                   <form class="form_newsletter">
                      <input type="Email" placeholder="Enter your Email" name="#" />
                      <button>Subscribe</button>
                   </form>
                </div>
-               <div class="item social_icon">
+               <div class="items social_icon">
                   <ul>
                      <li><i class="fab fa-facebook-f"></i></li>
                      <li><i class="fab fa-twitter"></i></li>
@@ -150,5 +150,4 @@
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
    <script src="js/owl.carousel.min.js"></script>
    <script src="js/slideShow.js"></script>
-
-   <script src="js/app.js"></script>
+   
