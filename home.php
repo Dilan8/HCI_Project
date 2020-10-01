@@ -46,20 +46,22 @@
 
         .owl-prev span,
         .owl-next span {
+            
             font-size: 60px;
-            color: #787878;
+            color: red;
         }
-
-        .owl-theme .owl-nav [class*="owl-"]:hover {
-            background-color: transparent;
+        .owl-theme .owl-nav [class*=owl-] {
+            background:none;
         }
+   
+        
     </style>
 </head>
 <?php include 'header.php'; ?>
 
 <body>
     <!--Home Page Animation for advertisment-->
-    <section class="warpper">
+    <section class="warpper" >
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -89,7 +91,8 @@
                     ` <div class="owl-two owl-carousel owl-theme">
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                                <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -100,7 +103,8 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                            <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
+                                <img style="padding: 10px;" src="img/08.jpg"  alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -112,7 +116,8 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                            <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
+                                <img style="padding: 10px;" src="img/09.jpg"  alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -124,7 +129,8 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                            <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
+                                <img style="padding: 10px;" src="img/11.jpg"  alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -133,6 +139,19 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
+                                <h3>how to be a bwase</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -146,9 +165,10 @@
                 <div class="col-md-12">
                     <h2 class="heading_section">Top 10 best selling</h2>
                     ` <div class="owl-two owl-carousel owl-theme">
-                        <div class="col-lg-2 col-md-3 col-sm-4">
+                    <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                               
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -159,7 +179,31 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                                <img style="padding: 10px;" src="img/08.jpg"  alt="Mountains">
+                                <h3>how to be a bwase</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;" src="img/09.jpg"  alt="Mountains">
+                                <h3>how to be a bwase</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;" src="img/11.jpg"  alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -170,7 +214,8 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                                
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -179,18 +224,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4">
-                            <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
-                                <h3>how to be a bwase</h3>
-                                <div class="btn-wrapper">
-                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
-                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
-                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -204,9 +237,10 @@
                 <div class="col-md-12">
                     <h2 class="heading_section">Best Selling Sinhala Fiction</h2>
                     ` <div class="owl-two owl-carousel owl-theme">
-                        <div class="col-lg-2 col-md-3 col-sm-4">
+                    <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                               
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -217,7 +251,32 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                                <img style="padding: 10px;" src="img/08.jpg"  alt="Mountains">
+                                <h3>how to be a bwase</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;" src="img/09.jpg"  alt="Mountains">
+                                <h3>how to be a bwase</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                               
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
@@ -228,18 +287,7 @@
                         </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
-                                <h3>how to be a bwase</h3>
-                                <div class="btn-wrapper">
-                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
-                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
-                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4">
-                            <div class="item">
-                                <img style="padding: 10px;" src="img/03.jpg" alt="Mountains">
+                                <img style="padding: 10px;" src="img/11.jpg"  alt="Mountains">
                                 <h3>how to be a bwase</h3>
                                 <div class="btn-wrapper">
                                     <button type="button" class="btn btn-primary btn-xs">BUY</button>
