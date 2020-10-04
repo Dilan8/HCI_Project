@@ -164,7 +164,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="heading_section">Top 10 best selling</h2>
+                    <h2 class="heading_section">Top 10 best selling...</h2>
                     ` <div class="owl-two owl-carousel owl-theme">
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item" style="background-color: white;">
