@@ -85,7 +85,7 @@
         </div>
     </section>
 
-    <!--Home Page Slide Show for Top 10 best selling ....-->
+    <!--Home Page Slide Show for Top 10 best selling-->
 
     <section class="wrapper1">
         <div class="container">
