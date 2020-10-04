@@ -28,10 +28,10 @@ $(document).ready(function() {
                 items: 1
             },
             600: {
-                items: 4
+                items: 2
             },
             1000: {
-                items: 6
+                items: 4
             }
         }
     });

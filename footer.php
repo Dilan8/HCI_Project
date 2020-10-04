@@ -75,7 +75,7 @@
 </head>
 
 <body>
-   <footer>
+   <footer style="background: linear-gradient(45deg, white, #007bff);">
       <div class="container">
          <div class="row">
 

@@ -14,7 +14,7 @@
   <div class="nav-top">
     <img src="img/slogo.png" alt="Mountains">
   </div>
-  <nav class="navbar navbar-expand-lg navbar navbar-dark bg-primary">
+  <nav class="navbar  navbar-expand-lg navbar navbar-dark bg-primary">
     <a class="navbar-brand" href="#">SARASAVI</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
