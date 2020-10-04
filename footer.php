@@ -104,7 +104,7 @@
                <div class="items">
                   <h4>HELP</h4>
                   <ul class="opening_hour_">
-                     <li><span class="left_side">COntactUs</span></li>
+                     <a href="ContactUs.php"><li><span class="left_side">ContactUs</span></li></a>
                      <li><span class="left_side">Shipping and returns</span></li>
                      <li><span class="left_side">Order Status</span></li>
 
