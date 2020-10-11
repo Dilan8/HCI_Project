@@ -205,17 +205,15 @@ iframe {
     justify-content: center;
     align-items: center;
     padding: 15px;
-    background: #d867c6;
-    background: -webkit-linear-gradient(90deg, #f8f9fa, #5fa4ef);
-    background: -o-linear-gradient(90deg, #f8f9fa, #5fa4ef);
-    background: -moz-linear-gradient(90deg, #f8f9fa, #5fa4ef);
-    background: linear-gradient(90deg, #f8f9fa, #5fa4ef);
+    background: url(../img/BG_Contact.jpg) fixed;
+    background-size: cover;
 }
 
 .wrap-contact100 {
+    opacity: 0.8;
     width: 790px;
     background: #fff;
-    border-radius: 20%;
+    border-radius: 10%;
     padding: 55px 95px 68px 95px;
 }
 
