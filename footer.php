@@ -104,7 +104,9 @@
                <div class="items">
                   <h4>HELP</h4>
                   <ul class="opening_hour_">
-                     <a href="ContactUs.php"><li><span class="left_side">ContactUs</span></li></a>
+                     <a href="ContactUs.php">
+                        <li><span class="left_side">ContactUs</span></li>
+                     </a>
                      <li><span class="left_side">Shipping and returns</span></li>
                      <li><span class="left_side">Order Status</span></li>
 
@@ -144,10 +146,12 @@
          <p>Copyright © 2019 Designed by <a href="https://html.design">Free Html Templates</a>. All rights reserved</p>
       </div>
    </footer>
-
-
-
+   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+   <script>
+      AOS.init();
+   </script>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
    <script src="js/owl.carousel.min.js"></script>
    <script src="js/slideShow.js"></script>
-   
+   <script src="js/signup.js"></script>
+   <script src="js/login.js"></script>

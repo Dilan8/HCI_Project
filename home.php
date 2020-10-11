@@ -30,10 +30,12 @@
             text-overflow: ellipsis;
             text-align: center;
         }
-        .item p{
+
+        .item p {
             text-align: center;
             font-weight: bold;
         }
+
         .owl-prev {
             left: -30px;
         }
@@ -65,7 +67,7 @@
 <body>
     <!--Home Page Animation for advertisment-->
     <section class="warpper" style="background: linear-gradient(45deg, white, lightblue);">
-        <div class="container">
+        <div class="container" data-aos="fade-up" data-aos-duration="3000">
             <div class="row">
                 <div class="col-md-12">
                     ` <div class="owl-one owl-carousel owl-theme">
@@ -85,14 +87,28 @@
         </div>
     </section>
 
-    <!--Home Page Slide Show for Top 10 best selling-->
+    <!--Home Page Slide Show for Top 10 best selling ....-->
 
     <section class="wrapper1">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="heading_section">Top 10 best selling</h2>
+                    <h2 class="heading_section">Top 10 best selling...</h2>
                     ` <div class="owl-two owl-carousel owl-theme">
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
+                                <h3>book name</h3>
+                                <h3>Gener</h3>
+                                <h3>author</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
                                 <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
@@ -164,11 +180,25 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="heading_section">Top 10 best selling...</h2>
+                    <h2 class="heading_section">Top 10 best selling</h2>
                     ` <div class="owl-two owl-carousel owl-theme">
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item" style="background-color: white;">
 
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
+                                <h3>book name</h3>
+                                <h3>Gener</h3>
+                                <h3>author</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
                                 <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>book name</h3>
                                 <h3>Gener</h3>
@@ -239,6 +269,20 @@
                         <div class="col-lg-2 col-md-3 col-sm-4">
                             <div class="item">
 
+                                <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
+                                <h3>book name</h3>
+                                <h3>Gener</h3>
+                                <h3>author</h3>
+                                <div class="btn-wrapper">
+                                    <button type="button" class="btn btn-primary btn-xs">BUY</button>
+                                    <button type="button" class="btn btn-warning btn-xs"><i class="fas fa-cart-plus"></i></button>
+                                    <button type="button" class="btn btn-danger"><i class="fas fa-heart"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-3 col-sm-4">
+                            <div class="item">
+                                <img style="padding: 10px;left: 158px;top: 14px; padding: 10px;position: absolute;width: 101px;height: 100px;" src="img/rating1.png" class="rating" alt="Mountains">
                                 <img style="padding: 10px;" src="img/09.jpg" alt="Mountains">
                                 <h3>book name</h3>
                                 <h3>Gener</h3>

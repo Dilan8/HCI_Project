@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <title>NAVIGATION</title>
 </head>
@@ -23,7 +24,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Sarasavi Publication</a>
@@ -40,10 +41,10 @@
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">Dhoa Discout Book</a>
+          <a class="nav-link " href="#">Dhoa Discout Book</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">About Us</a>
+          <a class="nav-link" href="#">About Us</a>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">

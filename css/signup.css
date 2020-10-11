@@ -1,0 +1,155 @@
+.login-block {
+    background: linear-gradient(180deg, white, #007bff);
+    width: 100%;
+    padding: 50px 0;
+}
+
+.back-img-signup {
+    background-size: cover;
+    background: url(../img/signup.jpg);
+    height: 600px;
+    opacity: 0.8;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.login-main {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 15px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.ml6 {
+    position: relative;
+    font-weight: 900;
+    font-size: 3em;
+}
+
+.ml6 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+}
+
+.ml6 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.card {
+    height: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.social_icon span {
+    font-size: 60px;
+    margin-left: 10px;
+    color: #0062cc;
+}
+
+.card-header h3 {
+    color: white;
+}
+
+.social_icon {
+    position: absolute;
+    right: 20px;
+    top: -45px;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #0062cc;
+    color: black;
+    border: 0 !important;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+    color: white;
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn {
+    color: white !important;
+    background-color: #0062cc !important;
+    width: 100px;
+}
+
+.links {
+    color: white;
+}
+
+.links a {
+    margin-left: 4px;
+}
+
+#tick-mark {
+    position: relative;
+    display: inline-block;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(238, 238, 243);
+}
+
+#tick-mark::before {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    height: 50%;
+    width: 3px;
+    background-color: white;
+    content: "";
+    transform: translateX(10px) rotate(-45deg);
+    transform-origin: left bottom;
+}
+
+#tick-mark::after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    content: "";
+    transform: translateX(10px) rotate(-45deg);
+    transform-origin: left bottom;
+}
+
+.wrapper-tick {
+    position: relative;
+    top: 20%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper-tick h5 {
+    font-family: Georgia, sans-serif;
+    margin-left: 20px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
