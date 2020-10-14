@@ -10,9 +10,14 @@
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="css/ContactUs.css">
     <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="webfonts/iconic/css/material-design-iconic-font.min.css">
+
+    <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
+
 </head>
 
 <?php include 'header.php'; ?>
+
 <body>
 
 
@@ -20,8 +25,8 @@
         <div class="wrap-contact100">
             <form class="contact100-form validate-form">
                 <span class="contact100-form-title">
-					Contact Us
-				</span>
+                    Contact Us
+                </span>
 
                 <label class="label-input100" for="first-name">Your Name *</label>
                 <div class="wrap-input100 rs1 validate-input">
@@ -51,15 +56,17 @@
                     <span class="focus-input100"></span>
                 </div>
 
+
                 <div class="container-contact100-form-btn">
-                
-                    <button class="contact100-form-btn">
-						<span>
+                    <button class="contact100-form-btn" aria-label="">
+                    <span>
 							Submit
 							<i class="zmdi zmdi-arrow-right m-l-8"></i>
-						</span>
-					</button>
+                        </span>
+                    </button>
                 </div>
+
+
             </form>
         </div>
     </div>
@@ -67,6 +74,8 @@
 
     <!--===============================================================================================-->
     <script src="js/Cletwin.js"></script>
+    <script src="js/sweetalert.min.js"></script>
+
 
 
 
