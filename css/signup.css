@@ -153,3 +153,41 @@ input:focus {
     color: white;
     text-align: center;
 }
+
+.invisible {
+    visibility: hidden;
+}
+
+.ui.segment {
+    position: relative;
+    background: #fff;
+    box-shadow: 0 1px 2px 0 rgba(34, 36, 38, .15);
+    margin: 1rem 0;
+    padding: 1em 1em;
+    border-radius: .28571429rem;
+    border: 1px solid rgba(34, 36, 38, .15);
+}
+
+*,
+ :after,
+ :before {
+    box-sizing: inherit;
+}
+
+.ui.error.message {
+    background-color: #fff6f6;
+    color: #9f3a38;
+}
+
+.ui.attached.error.message,
+.ui.error.message {
+    box-shadow: 0 0 0 1px #e0b4b4 inset, 0 0 0 0 transparent;
+}
+
+.ui.success.message .header {
+    color: #1a531b !important;
+}
+
+.ui.message .header:not(.ui) {
+    font-size: 1.14285714em;
+}

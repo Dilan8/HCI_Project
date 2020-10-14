@@ -154,4 +154,5 @@
    <script src="js/owl.carousel.min.js"></script>
    <script src="js/slideShow.js"></script>
    <script src="js/signup.js"></script>
-   <script src="js/login.js"></script>
+   <script src="js/bootstrap.min.js"></script>
+</body>

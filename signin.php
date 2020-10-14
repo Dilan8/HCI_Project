@@ -3,22 +3,14 @@
 
 <head>
     <title>SignIp</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/signin.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
 </head>
-<style>
-
-</style>
 <?php include 'header.php'; ?>
 
 <body>
 
     <section class="login-block">
-        <div class="container login-main" >
+        <div class="container login-main">
             <div class="row">
                 <div class="col-lg-6 back-img" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
 

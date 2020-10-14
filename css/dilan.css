@@ -1,0 +1,259 @@
+/**************************STYLE SHEET FOR HOME PAGE************************************/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    /*background: linear-gradient(45deg, white, lightblue);*/
+}
+
+.nav-top {
+    height: 19vh;
+}
+
+.nav-top img {
+    height: 83px;
+    margin: 30px;
+}
+
+#owl-demo .item {
+    margin: 3px;
+}
+
+#owl-demo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+section {
+    padding: 50px;
+}
+
+section .warpper {
+    background: red;
+}
+
+.btn-wrapper {
+    padding-left: 36px;
+}
+
+.h2,
+h2 {
+    font-size: 50px;
+    color: #040000;
+    font-weight: 700;
+    position: relative;
+    margin: 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2.heading_section::before {
+    width: 15px;
+    height: 15px;
+    content: "";
+    display: block;
+    background: #a92c38;
+    margin: 0 auto;
+    border-radius: 100%;
+    position: absolute;
+    bottom: -6px;
+    left: 49.5%;
+    z-index: 1;
+}
+
+h2.heading_section::after {
+    width: 265px;
+    height: 1px;
+    background: #050000;
+    content: "";
+    justify-content: center;
+    margin: 10px auto 0;
+    position: relative;
+    display: block;
+}
+
+h2.heading_section2::before {
+    width: 15px;
+    height: 15px;
+    content: "";
+    display: block;
+    background: #a92c38;
+    margin: 0 auto;
+    border-radius: 100%;
+    position: absolute;
+    bottom: -6px;
+    left: 49.5%;
+    z-index: 1;
+}
+
+h2.heading_section2::after {
+    width: 265px;
+    height: 1px;
+    background: #050000;
+    content: "";
+    justify-content: center;
+    margin: 10px auto 0;
+    position: relative;
+    display: block;
+}
+
+#button {
+    display: inline-block;
+    background-color: #FF9800;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
+
+#button::after {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 50px;
+    color: #fff;
+}
+
+#button:hover {
+    cursor: pointer;
+    background-color: #333;
+}
+
+#button:active {
+    background-color: #555;
+}
+
+#button.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.btn_sec3 {
+    font-size: 12px;
+}
+
+@media only screen and (max-width: 600px) {
+    .item {
+        width: auto !important;
+    }
+}
+
+
+/*********************************SIGNUP AND SIGNIN CSS*********************************************/
+
+.login-block {
+    background: linear-gradient(180deg, white, #007bff);
+    width: 100%;
+    padding: 50px 0;
+}
+
+.back-img {
+    background: url(../img/L1.jpg);
+    background-size: cover;
+    height: 600px;
+    z-index: 1;
+}
+
+.login-main {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 15px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.ml6 {
+    position: relative;
+    font-weight: 900;
+    font-size: 3em;
+}
+
+.ml6 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+}
+
+.ml6 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.card {
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.social_icon span {
+    font-size: 60px;
+    margin-left: 10px;
+    color: #0062cc;
+}
+
+.card-header h3 {
+    color: white;
+}
+
+.social_icon {
+    position: absolute;
+    right: 20px;
+    top: -45px;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #0062cc;
+    color: black;
+    border: 0 !important;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+    color: white;
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn {
+    color: white !important;
+    background-color: #0062cc !important;
+    width: 100px;
+}
+
+.links {
+    color: white;
+}
+
+.links a {
+    margin-left: 4px;
+}

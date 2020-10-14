@@ -3,16 +3,8 @@
 
 <head>
     <title>Signup</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/signup.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
 </head>
-<style>
-
-</style>
 <?php include 'header.php'; ?>
 
 <body>
@@ -32,26 +24,25 @@
                                 </div>
                             </div>
                             <div class="card-body">
-                                <div id="error"></div>
-                                <form id="signupForm">
+                        
+                                <form id="signupForm" novalidate>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-user"></i></span>
                                         </div>
-                                        <input type="text" id="name" class="form-control" name="name" placeholder="username">
-
+                                        <input type="text" data-validation="required" class="form-control" placeholder="username">
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-phone"></i></span>
                                         </div>
-                                        <input id="mobile" class="form-control" name="password" placeholder="mobile">
+                                        <input data-validation="required phone" class="form-control" placeholder="mobile">
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-envelope"></i></span>
                                         </div>
-                                        <input id="email" class="form-control" name="password" placeholder="Email">
+                                        <input data-validation="required email"  class="form-control"  placeholder="Email">
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
@@ -76,7 +67,7 @@
                             </div>
                             <div class="card-footer">
                                 <div class="d-flex justify-content-center links">
-                                     have an account?<a href="signin.php">Sign In</a>
+                                    have an account?<a href="signin.php">Sign In</a>
                                 </div>
                                 <div class="d-flex justify-content-center">
                                     <a href="#">Forgot your password?</a>
@@ -107,7 +98,7 @@
         </div>
         </div>
     </section>
- 
+
 </body>
 <?php include 'footer.php'; ?>
 
