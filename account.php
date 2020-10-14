@@ -3,7 +3,7 @@
 
 <head>
     <title>My Account</title>
-    <link rel="stylesheet" href="css/signin.css">
+   
 </head>
 <?php include 'header.php'; ?>
 
@@ -18,38 +18,46 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <th scope="row">Full Name</th>
-                                <td>Dilan Vasandaraj &ensp;&ensp; <button type="button" class="btn btn-warning btn-xs" style="padding-left: 20px;"><i class="fas fa-cart-plus"></i></button></td>
 
+                                <th class="box" scope="row">Full Name</th>
+                                <td class="text">Dilan Vasandaraj &ensp;&ensp;
+                                    <button type="button" class="btn btn-dark btn-xs edit" style="padding-left: 20px;"><i class="fas fa-edit"></i></button>
+                                    <button type="button" class="btn btn-success btn-xs save" style="padding-left: 20px;"><i class="fas fa-save"></i></button>
+                                </td>
                             </tr>
                             <tr>
-                                <th scope="row">Email Address</th>
-                                <td>vasandarajdilan64@gmail.com</td>
-
-                            </tr>
-                            <tr>
-                                <th scope="row">Phone Number</th>
-                                <td>0717236676</td>
-
-                            </tr>
-                            <tr>
-                                <th scope="row">Password</th>
-                                <td>*******</td>
-
-                            </tr>
-                            <tr>
-                                <th scope="row">Security Question</th>
-                                <td class="btn btn-secondary dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown">
-                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                        <a class="dropdown-item" href="#">Action</a>
-                                        <a class="dropdown-item" href="#">Another action</a>
-                                        <a class="dropdown-item" href="#">Something else here</a>
-                                    </div>
+                                <th class="box" scope="row">Email Address</th>
+                                <td class="text">vasandarajdilan64@gmail.com
+                                    <button type="button" class="btn btn-dark btn-xs edit" style="padding-left: 20px;"><i class="fas fa-edit"></i></button>
+                                    <button type="button" class="btn btn-success btn-xs save" style="padding-left: 20px;"><i class="fas fa-save"></i></button>
                                 </td>
 
                             </tr>
                             <tr>
-                                <th scope="row">YOUR Answer</th>
+                                <th class="box" scope="row">Phone Number</th>
+                                <td class="text">0717236676
+                                    <button type="button" class="btn btn-dark btn-xs edit" style="padding-left: 20px;"><i class="fas fa-edit"></i></button>
+                                    <button type="button" class="btn btn-success btn-xs save" style="padding-left: 20px;"><i class="fas fa-save"></i></button>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <th class="box" scope="row">Password</th>
+                                <td class="text">*******
+                                    <button type="button" class="btn btn-dark btn-xs edit" style="padding-left: 20px;"><i class="fas fa-edit"></i></button>
+                                    <button type="button" class="btn btn-success btn-xs save" style="padding-left: 20px;"><i class="fas fa-save"></i></button>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">Security Question</th>
+                                <td>
+                                    Your Birth place?
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <th scope="row">Your Answer</th>
                                 <td>Batticalo</td>
 
                             </tr>

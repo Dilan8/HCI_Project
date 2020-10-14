@@ -154,4 +154,5 @@
    <script src="js/owl.carousel.min.js"></script>
    <script src="js/slideShow.js"></script>
    <script src="js/bootstrap.min.js"></script>
+   <script src="js/dilan.js"></script>
 </body>
