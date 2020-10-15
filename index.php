@@ -72,7 +72,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -97,7 +97,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -122,7 +122,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -147,7 +147,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -172,7 +172,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                             <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -197,7 +197,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -222,7 +222,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -247,7 +247,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                         </div>
                                                         <div class="product-action-2">
                                                             <a title="Add to cart" href="#">Add to cart</a>
@@ -281,7 +281,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                             <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -307,7 +307,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -333,7 +333,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -360,7 +360,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -386,7 +386,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -413,7 +413,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -439,7 +439,7 @@
                                                     <div class="button-head">
                                                         <div class="product-action">
                                                             <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                                            <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
+                                                            <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                                             <a title="Compare" href="#"><i class="ti-bar-chart-alt"></i><span>Add to Compare</span></a>
                                                         </div>
                                                         <div class="product-action-2">
@@ -1261,60 +1261,6 @@
         </div>
     </section>
     <!-- End Shop Home List  -->
-
-
-
-    <!-- Start Shop Blog  
-	<section class="shop-blog section">
-		<div class="container">
-			<div class="row">
-				<div class="col-12">
-					<div class="section-title">
-						<h2>From Our Blog</h2>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-md-6 col-12">
-					<!-- Start Single Blog  --
-					<div class="shop-single-blog">
-						<img src="https://www.resourcefurniture.com.au/wp-content/uploads/2020/04/book-box-600x400.jpg" alt="#">
-						<div class="content">
-							<p class="date">22 July , 2020. Monday</p>
-							<a href="#" class="title">The Impressive works of Sujatha.</a>
-							<a href="#" class="more-btn">Continue Reading...</a>
-						</div>
-					</div>
-					<!- End Single Blog  --
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
-					<!- Start Single Blog  --
-					<div class="shop-single-blog">
-						<img src="https://www.resourcefurniture.com.au/wp-content/uploads/2020/04/book-box-600x400.jpg" alt="#">
-						<div class="content">
-							<p class="date">22 July , 2020. Monday</p>
-							<a href="#" class="title">The Impressive works of Sujatha.</a>
-							<a href="#" class="more-btn">Continue Reading...</a>
-						</div>
-					</div>
-					<!- End Single Blog  --
-				</div>
-				<div class="col-lg-4 col-md-6 col-12">
-					<!- Start Single Blog  --
-					<div class="shop-single-blog">
-						<img src="https://www.resourcefurniture.com.au/wp-content/uploads/2020/04/book-box-600x400.jpg" alt="#">
-						<div class="content">
-							<p class="date">22 July , 2020. Monday</p>
-							<a href="#" class="title">The Impressive works of Sujatha.</a>
-							<a href="#" class="more-btn">Continue Reading...</a>
-						</div>
-					</div>
-					<!- End Single Blog  ->
-				</div>
-			</div>
-		</div>
-	</section>
-	<!- End Shop Blog  -->
 
     <!-- Start Shop Services Area -->
     <section class="shop-services section home">

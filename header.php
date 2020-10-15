@@ -90,7 +90,7 @@
                         <div class="right-content">
                             <ul class="list-main">
 
-                                <li><i class="ti-user"></i> <a style="font-family: 'Poppins', sans-serif;" href="#">My account</a></li>
+                                <li><i class="ti-user"></i> <a style="font-family: 'Poppins', sans-serif;" href="account.php">My account</a></li>
                                 <li><i class="ti-power-off"></i><a  style="font-family: 'Poppins', sans-serif;"  href="signin.php">Login</a></li>
                             </ul>
                         </div>
