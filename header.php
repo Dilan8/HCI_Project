@@ -12,9 +12,14 @@
     <title>Sarasavi Book Shop</title>
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="images/favicon.png">
-    <!-- Web Font -->
-    <link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+     <!-- Web Font -->
+     <link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+    <!--================================ANIMATE ON SCORLL LIB==============================================================-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+   
+ 
     <!-- StyleSheet -->
 
     <!-- Bootstrap -->
@@ -38,18 +43,15 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- Slicknav -->
     <link rel="stylesheet" href="css/slicknav.min.css">
-    <link rel="stylesheet" href="css/ContactUs.css">
+    
     <!-- Eshop StyleSheet -->
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
-
+    <link rel="stylesheet" href="css/ContactUs.css">
     <link rel="stylesheet" href="css/signin.css">
-    <link rel="stylesheet" href="css/account.css">
     <link rel="stylesheet" href="css/signup.css">
-    <!--================================ANIMATE ON SCORLL LIB==============================================================-->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="css/account.css">
     
   
 
@@ -88,8 +90,8 @@
                         <div class="right-content">
                             <ul class="list-main">
 
-                                <li><i class="ti-user"></i> <a href="#">My account</a></li>
-                                <li><i class="ti-power-off"></i><a href="signin.php">Login</a></li>
+                                <li><i class="ti-user"></i> <a style="font-family: 'Poppins', sans-serif;" href="#">My account</a></li>
+                                <li><i class="ti-power-off"></i><a  style="font-family: 'Poppins', sans-serif;"  href="signin.php">Login</a></li>
                             </ul>
                         </div>
                         <!-- End Top Right -->
@@ -200,10 +202,10 @@
                                     <div class="navbar-collapse">
                                         <div class="nav-inner">
                                             <ul class="nav main-menu menu navbar-nav">
-                                                <li class="active"><a href="#">Home</a></li>
-                                                <li><a href="#">Sarasavi Publications </a></li>
-                                                <li><a href="#">International Booklists </a></li>
-                                                <li><a href="#">Doha Discounted Books </a></li>
+                                                <li class="active"><a style="font-family: 'Poppins', sans-serif;" href="#">Home</a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Sarasavi Publications </a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;" href="#">International Booklists </a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;" href="#">Doha Discounted Books </a></li>
 
 
 
