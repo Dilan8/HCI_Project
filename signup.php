@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <title>Signup</title>
-    <link rel="stylesheet" href="css/signup.css">
-</head>
 <?php include 'header.php'; ?>
 
-<body>
 
     <section class="login-block">
         <div class="container login-main">
@@ -99,7 +91,5 @@
         </div>
     </section>
 
-</body>
-<?php include 'footer.php'; ?>
 
-</html>
+<?php include 'footer.php'; ?>

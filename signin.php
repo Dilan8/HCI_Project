@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <title>SignIp</title>
-    <link rel="stylesheet" href="css/signin.css">
-</head>
 <?php include 'header.php'; ?>
-
-<body>
-
     <section class="login-block">
         <div class="container login-main">
             <div class="row">
@@ -16,10 +7,6 @@
 
                 </div>
                 <div class="col-lg-6 login-sec">
-
-
-
-
                     <div class="d-flex justify-content-center h-100" style="padding:36px;" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                         <div class="card">
                             <div class="card-header">
@@ -68,7 +55,5 @@
             </div>
         </div>
     </section>
-</body>
 <?php include 'footer.php'; ?>
 
-</html>

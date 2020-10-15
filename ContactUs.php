@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <title>Contact V14</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="img/icons/favicon.ico" />
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="css/ContactUs.css">
-    <!--===============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="webfonts/iconic/css/material-design-iconic-font.min.css">
-
-    <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
-
-</head>
 
 <?php include 'header.php'; ?>
 
-<body>
+
 
 
     <div class="container-contact100">
@@ -70,16 +53,4 @@
             </form>
         </div>
     </div>
-
-
-    <!--===============================================================================================-->
-    <script src="js/Cletwin.js"></script>
-    <script src="js/sweetalert.min.js"></script>
-
-
-
-
-</body>
 <?php include 'footer.php'; ?>
-
-</html>
