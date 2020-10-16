@@ -17,7 +17,7 @@
                             </div>
                             <div class="card-body">
                         
-                                <form id="signupForm" novalidate>
+                                <form id="signupForm" novalidate action="signin.php">
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-user"></i></span>
@@ -52,7 +52,7 @@
                                     </div>
 
                                     <div class="form-group" style="position: relative; left:10px;">
-                                        <input type="submit" value="Create" class="btn float-right login_btn">
+                                        <input style="text-align: center;" type="submit" value="Register" class="btn float-right login_btn">
                                     </div>
                                     <div class="form-group">
                                         <input type="button" onclick="myFunction()" value="Reset" class="btn float-right login_btn">

@@ -7,7 +7,7 @@
             </div>
             <div class="col-lg-6 login-sec">
                 <div class="d-flex justify-content-center h-100" style="padding:36px;" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
-                    <div class="card">
+                    <div class="card" style="height: 370px;">
                         <div class="card-header">
                             <h3>Sign In</h3>
                             <div class="d-flex justify-content-end social_icon">
@@ -17,7 +17,7 @@
                         </div>
                         <div class="card-body">
                             <div id="error"></div>
-                            <form id="form">
+                            <form id="form" action="home.php">
                                 <div class="input-group form-group">
                                     <div class="input-group-prepend">
                                         <span class="input-group-text"><i class="fas fa-user"></i></span>
@@ -30,9 +30,9 @@
                                         <span class="input-group-text"><i class="fas fa-key"></i></span>
                                     </div>
                                     <div>
-                                        
+
                                     </div>
-                                   
+
                                     <input type="password" name="password" id="password" class="form-control" placeholder="Enter the password">
                                     <span class="input-group-text"><i style="cursor: pointer;" class="far fa-eye" id="togglePassword" aria-hidden="true"></i></span>
                                 </div>
@@ -40,7 +40,7 @@
                                     <input type="checkbox">Remember Me
                                 </div>
                                 <div class="form-group">
-                                    <input type="submit" value="Login" class="btn float-right login_btn">
+                                    <input type="submit" value="Login"class="btn float-right login_btn">
                                 </div>
                             </form>
                         </div>

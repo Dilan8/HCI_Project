@@ -87,8 +87,8 @@
                         <div class="right-content">
                             <ul class="list-main">
 
-                            <li><i class="ti-power-off"></i><a style="font-family: 'Poppins', sans-serif;" href="signup.php">Register</a></li>
-                                <li><i class="ti-power-off"></i><a style="font-family: 'Poppins', sans-serif;" href="signin.php">Login</a></li>
+                                <li><i class="ti-user"></i> <a style="font-family: 'Poppins', sans-serif;" href="account.php">My account</a></li>
+                                <li><i class="ti-power-off"></i><a style="font-family: 'Poppins', sans-serif;" href="signin.php">Logout</a></li>
                             </ul>
                         </div>
                         <!-- End Top Right -->
@@ -143,13 +143,13 @@
                         <div class="right-bar">
                             <!-- Search Form -->
                             <div class="sinlge-bar">
-                              
+                                <a href="wishlist.php" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
                             </div>
                             <div class="sinlge-bar">
-                                
+                                <a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
                             </div>
                             <div class="sinlge-bar shopping">
-                                
+                                <a href="cart.php" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
                                 <!-- Shopping Item -->
                                 <div class="shopping-item">
                                     <div class="dropdown-cart-header">
@@ -161,19 +161,19 @@
                                             <a href="#" class="remove" title="Remove this item"><i class="fa fa-remove"></i></a>
                                             <a class="cart-img" href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYcjwNxfzPU0SZXhh9sVtzyZp9MSAJYR-uiw&usqp=CAU" alt="#"></a>
                                             <h4><a href="#">Sun at West</a></h4>
-                                            <p class="quantity">1x - <span class="amount">$99.00</span></p>
+                                            <p class="quantity">1x - <span class="amount">99.00</span></p>
                                         </li>
                                         <li>
                                             <a href="#" class="remove" title="Remove this item"><i class="fa fa-remove"></i></a>
                                             <a class="cart-img" href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYcjwNxfzPU0SZXhh9sVtzyZp9MSAJYR-uiw&usqp=CAU" alt="#"></a>
                                             <h4><a href="#">King of Moon</a></h4>
-                                            <p class="quantity">1x - <span class="amount">$35.00</span></p>
+                                            <p class="quantity">1x - <span class="amount">35.00</span></p>
                                         </li>
                                     </ul>
                                     <div class="bottom">
                                         <div class="total">
                                             <span>Total</span>
-                                            <span class="total-amount">$134.00</span>
+                                            <span class="total-amount">134.00</span>
                                         </div>
                                         <a href="checkout.html" class="btn animate">Checkout</a>
                                     </div>

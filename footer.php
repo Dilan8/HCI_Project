@@ -128,6 +128,7 @@
  <script src="js/sweetalert.min.js"></script>
  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
  <script src="js/dilan.js"></script>
+ <script src="js/slideShow.js"></script>
    <script>
       AOS.init();
    </script>

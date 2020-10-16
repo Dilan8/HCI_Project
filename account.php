@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header2.php'; ?>
 
 <body>
   <section class="customer-details" style="background: linear-gradient(180deg, white,#a6d1ff, white );">

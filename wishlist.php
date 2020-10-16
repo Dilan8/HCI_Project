@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header2.php'; ?>
 <!-- Breadcrumbs -->
 <div class="breadcrumbs">
     <div class="container">
@@ -36,7 +36,7 @@
                             <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                            <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -49,7 +49,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                           <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -62,7 +62,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                           <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -75,7 +75,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                           <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -88,7 +88,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                           <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -117,7 +117,7 @@
                             <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
 							<td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -131,7 +131,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                           <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -144,7 +144,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                        <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
@@ -170,7 +170,7 @@
                              <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">Davinci Code</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-								<p  class="price" data-title="Price">$110.00</p>
+								<p  class="price" data-title="Price">110.00</p>
                             </td>
                           <td ><button id = "Removewsh" ><i class="fas fa-shopping-cart"></i></button>
 							<br></br>
