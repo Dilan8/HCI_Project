@@ -58,7 +58,7 @@
                                     <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                                     <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                                     <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                                     <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                                     <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -188,7 +188,7 @@
                                     <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -233,7 +233,7 @@
                                     <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
@@ -259,7 +259,7 @@
                                     <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
                                 </div>
                                 <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
+                                    <a title="Add to cart" href="cart.php">Add to cart</a>
                                 </div>
                             </div>
                         </div>
