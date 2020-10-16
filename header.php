@@ -143,13 +143,13 @@
                         <div class="right-bar">
                             <!-- Search Form -->
                             <div class="sinlge-bar">
-                                <a href="#" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+                                <a href="wishlist.php" class="single-icon"><i class="fa fa-heart-o" aria-hidden="true"></i></a>
                             </div>
                             <div class="sinlge-bar">
                                 <a href="#" class="single-icon"><i class="fa fa-user-circle-o" aria-hidden="true"></i></a>
                             </div>
                             <div class="sinlge-bar shopping">
-                                <a href="#" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
+                                <a href="cart.php" class="single-icon"><i class="ti-bag"></i> <span class="total-count">2</span></a>
                                 <!-- Shopping Item -->
                                 <div class="shopping-item">
                                     <div class="dropdown-cart-header">
@@ -201,6 +201,7 @@
                                             <ul class="nav main-menu menu navbar-nav">
                                                 <li class="active"><a style="font-family: 'Poppins', sans-serif;" href="index.php">Home</a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="sarasavipub.php">Sarasavi Publications </a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;" href="BookVouchers.php">Book Vouchers</a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="international.php">International Booklists </a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="#">Doha Discounted Books </a></li>
 

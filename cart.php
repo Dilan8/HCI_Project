@@ -35,9 +35,9 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="image" data-title="No"><img src="https://via.placeholder.com/100x100" alt="#"></td>
+                            <td class="image" data-title="No"><img src="images/b2.jpg" alt="#"></td>
                             <td class="product-des" data-title="Description">
-                                <p class="product-name"><a href="#">Women Dress</a></p>
+                                <p class="product-name"><a href="#">BOOK NAME</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
                             </td>
                             <td class="price" data-title="Price"><span>$110.00 </span></td>
@@ -62,12 +62,12 @@
                             <td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
                         </tr>
                         <tr>
-                            <td class="image" data-title="No"><img src="https://via.placeholder.com/100x100" alt="#"></td>
+                            <td class="image" data-title="No"><img src="images/b2.jpg"alt="#"></td>
                             <td class="product-des" data-title="Description">
-                                <p class="product-name"><a href="#">Women Dress</a></p>
+                                <p class="product-name"><a href="#">BOOK NAME</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
                             </td>
-                            <td class="price" data-title="Price"><span>$110.00 </span></td>
+                            <td class="price" data-title="Price"><span>1110.00 </span></td>
                             <td class="qty" data-title="Qty">
                                 <!-- Input Order -->
                                 <div class="input-group">
@@ -85,16 +85,16 @@
                                 </div>
                                 <!--/ End Input Order -->
                             </td>
-                            <td class="total-amount" data-title="Total"><span>$220.88</span></td>
+                            <td class="total-amount" data-title="Total"><span>1220.88</span></td>
                             <td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
                         </tr>
                         <tr>
-                            <td class="image" data-title="No"><img src="https://via.placeholder.com/100x100" alt="#"></td>
+                            <td class="image" data-title="No"><img src="images/b2.jpg" alt="#"></td>
                             <td class="product-des" data-title="Description">
-                                <p class="product-name"><a href="#">Women Dress</a></p>
+                                <p class="product-name"><a href="#">BOOK NAME</a></p>
                                 <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
                             </td>
-                            <td class="price" data-title="Price"><span>$110.00 </span></td>
+                            <td class="price" data-title="Price"><span>1110.00 </span></td>
                             <td class="qty" data-title="Qty">
                                 <!-- Input Order -->
                                 <div class="input-group">
@@ -112,7 +112,7 @@
                                 </div>
                                 <!--/ End Input Order -->
                             </td>
-                            <td class="total-amount" data-title="Total"><span>$220.88</span></td>
+                            <td class="total-amount" data-title="Total"><span>1220.88</span></td>
                             <td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
                         </tr>
                     </tbody>
@@ -141,13 +141,13 @@
                         <div class="col-lg-4 col-md-7 col-12">
                             <div class="right">
                                 <ul>
-                                    <li>Cart Subtotal<span>$330.00</span></li>
+                                    <li>Cart Subtotal<span>330.00</span></li>
                                     <li>Shipping<span>Free</span></li>
-                                    <li>You Save<span>$20.00</span></li>
-                                    <li class="last">You Pay<span>$310.00</span></li>
+                                    <li>You Save<span>20.00</span></li>
+                                    <li class="last">You Pay<span>310.00</span></li>
                                 </ul>
                                 <div class="button5">
-                                    <a href="#" class="btn">Checkout</a>
+                                    <a href="checkout.php" class="btn">Checkout</a>
                                     <a href="#" class="btn">Continue shopping</a>
                                 </div>
                             </div>

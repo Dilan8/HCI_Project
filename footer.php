@@ -38,7 +38,7 @@
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Money-back</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Returns</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="Shipping.php">Shipping</a></li>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Privacy Policy</a></li>
+                             <li><a style="font-family: 'Poppins', sans-serif;"  href="privacypolicy.php">Privacy Policy</a></li>
                          </ul>
                      </div>
                      <!-- End Single Widget -->
