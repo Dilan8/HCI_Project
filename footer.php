@@ -20,7 +20,7 @@
                      <div class="single-footer links">
                          <h4>Information</h4>
                          <ul>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">About Us</a></li>
+                             <li><a style="font-family: 'Poppins', sans-serif;"  href="aboutUs.php">About Us</a></li>
                              
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="termsof.php">Terms & Conditions</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="ContactUs.php">Contact Us</a></li>
