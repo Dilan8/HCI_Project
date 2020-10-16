@@ -74,7 +74,7 @@
                                 <!-- End Input Order -->
                             </div>
                             <div class="add-to-cart">
-                                <a href="AddToCard.php" class="btn">Add to cart</a>
+                                <a href="cart.php" class="btn">Add to cart</a>
                                 <a href="wishlist.php" class="btn min"><i class="ti-heart"></i></a>
 
                             </div>

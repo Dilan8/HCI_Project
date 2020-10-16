@@ -1,0 +1,88 @@
+#mainpage {
+	background: linear-gradient(180deg, white, #007bff);
+    width: 100%;
+	background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 15px 20px 0px rgba(0, 0, 0, 0.1); 
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+ 
+}
+
+
+
+/* Float four columns side by side */
+.colomn1 {
+  float: left;
+  width: 33.33%;
+  padding: 0px 10px;
+  
+}
+
+/* Remove extra left and right margins, due to padding */
+.row1 {margin: 50px -5px;}
+
+/* Clear floats after the columns */
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .colomn1 {
+    width: 50%;
+	height:80%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding:5px;
+  text-align: center;
+  background-color: #b3ffff;
+  
+}
+.card1 .leftside1{
+	background: url(../images/terms2.jpg);
+    background-repeat: no-repeat;
+	 background-size: 500px 1600px;
+	
+}
+.leftside1{
+	height:1600px;
+	
+}
+.leftside2{
+	height:1600px;
+	
+}
+.leftside3{
+	height:1600px;
+	
+}
+
+.card1 .leftside2{
+	
+    background: url(../images/terms5.jpg);
+	background-repeat: no-repeat;
+	 background-size: 500px 1600px;
+}
+
+
+.card1 .leftside3{
+	background: url(../images/terms3.jpg);
+    background-repeat: no-repeat;
+	 background-size: 500px 1600px;
+	
+}

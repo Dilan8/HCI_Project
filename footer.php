@@ -21,8 +21,8 @@
                          <h4>Information</h4>
                          <ul>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">About Us</a></li>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Faq</a></li>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Terms & Conditions</a></li>
+                             
+                             <li><a style="font-family: 'Poppins', sans-serif;"  href="termsof.php">Terms & Conditions</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="ContactUs.php">Contact Us</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Help</a></li>
                          </ul>
@@ -35,7 +35,7 @@
                          <h4 style="font-family: 'Poppins', sans-serif;" >Customer Service</h4>
                          <ul>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="BranchNetwork.php">Branch Network</a></li>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Money-back</a></li>
+                           
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Returns</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="Shipping.php">Shipping</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="privacypolicy.php">Privacy Policy</a></li>

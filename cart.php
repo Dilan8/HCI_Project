@@ -25,6 +25,7 @@
                 <table class="table shopping-summery">
                     <thead>
                         <tr class="main-hading">
+						    <th>SELECT</th>
                             <th>PRODUCT</th>
                             <th>NAME</th>
                             <th class="text-center">UNIT PRICE</th>
@@ -35,6 +36,7 @@
                     </thead>
                     <tbody>
                         <tr>
+						<td>  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"></td>
                             <td class="image" data-title="No"><img src="images/b2.jpg" alt="#"></td>
                             <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">BOOK NAME</a></p>
@@ -62,6 +64,7 @@
                             <td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
                         </tr>
                         <tr>
+<td>  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"></td>
                             <td class="image" data-title="No"><img src="images/b2.jpg"alt="#"></td>
                             <td class="product-des" data-title="Description">
                                 <p class="product-name"><a href="#">BOOK NAME</a></p>
@@ -88,33 +91,7 @@
                             <td class="total-amount" data-title="Total"><span>1220.88</span></td>
                             <td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
                         </tr>
-                        <tr>
-                            <td class="image" data-title="No"><img src="images/b2.jpg" alt="#"></td>
-                            <td class="product-des" data-title="Description">
-                                <p class="product-name"><a href="#">BOOK NAME</a></p>
-                                <p class="product-des">Maboriosam in a tonto nesciung eget distingy magndapibus.</p>
-                            </td>
-                            <td class="price" data-title="Price"><span>1110.00 </span></td>
-                            <td class="qty" data-title="Qty">
-                                <!-- Input Order -->
-                                <div class="input-group">
-                                    <div class="button minus">
-                                        <button type="button" class="btn btn-primary btn-number" disabled="disabled" data-type="minus" data-field="quant[3]">
-												<i class="ti-minus"></i>
-											</button>
-                                    </div>
-                                    <input type="text" name="quant[3]" class="input-number" data-min="1" data-max="100" value="3">
-                                    <div class="button plus">
-                                        <button type="button" class="btn btn-primary btn-number" data-type="plus" data-field="quant[3]">
-												<i class="ti-plus"></i>
-											</button>
-                                    </div>
-                                </div>
-                                <!--/ End Input Order -->
-                            </td>
-                            <td class="total-amount" data-title="Total"><span>1220.88</span></td>
-                            <td class="action" data-title="Remove"><a href="#"><i class="ti-trash remove-icon"></i></a></td>
-                        </tr>
+                   
                     </tbody>
                 </table>
                 <!--/ End Shopping Summery -->
@@ -131,16 +108,28 @@
                                     <form action="#" target="_blank">
                                         <input name="Coupon" placeholder="Enter Your Coupon">
                                         <button class="btn">Apply</button>
-                                    </form>
+                                 
+									
                                 </div>
-                                <div class="checkbox">
-                                    <label class="checkbox-inline" for="2"><input name="news" id="2" type="checkbox"> Shipping (+10$)</label>
-                                </div>
+                                
                             </div>
+							</br>
+							<select  class="coupon" name="shpmethod" id="shpmethod">
+								                  <option value="none" selected="">Select a Shipping Method</option>
+						   						   <option value="1100">Local Courier Service</option>
+														<option value="1200">EMS Postage(Recommend)will ship within 2 weeks</option>
+														<option value="1300">International Surface Parcel Rates(Low cost, shipping time 4-6 weeks)</option>
+													</select>
+							
                         </div>
                         <div class="col-lg-4 col-md-7 col-12">
                             <div class="right">
+							
+							
+												
+												
                                 <ul>
+								
                                     <li>Cart Subtotal<span>330.00</span></li>
                                     <li>Shipping<span>Free</span></li>
                                     <li>You Save<span>20.00</span></li>
@@ -148,7 +137,7 @@
                                 </ul>
                                 <div class="button5">
                                     <a href="checkout.php" class="btn">Checkout</a>
-                                    <a href="#" class="btn">Continue shopping</a>
+                                    <a href="home.php" class="btn">Continue shopping</a>
                                 </div>
                             </div>
                         </div>

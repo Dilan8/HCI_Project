@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-lg-6 col-12 padding-right">
                     <div class="image">
-                        <img src="https://srilankamirror.com/media/k2/items/cache/9720a90ebf8881b38a503322d0268728_XL.jpg?t=20180922_054209" alt="#">
+                        <img src="images/b50.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12 padding-left">
@@ -52,15 +52,7 @@
                                 <img class="default-img" src="images/4.jpg">
                                 <span class="out-of-stock">1st</span>
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -78,15 +70,7 @@
                                 <img class="default-img" src="images/2.jpg">
                                 <span class="out-of-stock">2nd</span>
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -104,15 +88,7 @@
                                 <img class="default-img" src="images/3.jpg">
                                 <span class="out-of-stock">3rd</span>
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -130,15 +106,7 @@
                                 <img class="default-img" src="images/mysecond.jpg">
                                 <span class="out-of-stock">4th</span>
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -156,15 +124,7 @@
                                 <img class="default-img" src="images/1.jpg">
                                 <span class="out-of-stock">5th</span>
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -182,15 +142,7 @@
                                 <img class="default-img" src="images/night.jpg">
                                 <span class="out-of-stock">6th</span>
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="wishlist.php"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                           
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -227,15 +179,7 @@
                                 <img class="default-img" src="images/down.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -253,15 +197,7 @@
                                 <img class="default-img" src="images/blood.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -279,15 +215,7 @@
                                 <img class="default-img" src="images/half.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                           
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -305,15 +233,7 @@
                                 <img class="default-img" src="images/p1.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -402,15 +322,7 @@
                                 <img class="default-img" src="images/down.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -428,15 +340,7 @@
                                 <img class="default-img" src="images/blood.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="AddToCard.php">Add to cart</a>
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -454,15 +358,7 @@
                                 <img class="default-img" src="images/half.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                         
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -480,15 +376,7 @@
                                 <img class="default-img" src="images/p1.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                        
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
@@ -506,15 +394,7 @@
                                 <img class="default-img" src="images/per.jpg">
 
                             </a>
-                            <div class="button-head">
-                                <div class="product-action">
-                                    <a data-toggle="modal" data-target="#exampleModal" title="Quick View" href="#"><i class=" ti-eye"></i><span>Quick Shop</span></a>
-                                    <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                </div>
-                                <div class="product-action-2">
-                                    <a title="Add to cart" href="#">Add to cart</a>
-                                </div>
-                            </div>
+                   
                         </div>
                         <div class="product-content">
                             <h3><a href="product-details.html">Davinci Code</a></h3>
