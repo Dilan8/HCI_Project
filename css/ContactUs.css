@@ -488,8 +488,8 @@ textarea.input100 {
 }
 
 .true-validate::after {
-    content: "\f26b";
-    font-family: Material-Design-Iconic-Font;
+    font-family: FontAwesome !important;
+    content: "\f164";
     font-size: 18px;
     color: #00ad5f;
     display: -webkit-box;

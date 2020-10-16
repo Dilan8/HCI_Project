@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/manage.css">
 </head>
-<?php include 'header.php'; ?>
+<?php include 'header2.php'; ?>
 
 <body>
 <div id="manage_main">
