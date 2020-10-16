@@ -40,11 +40,18 @@
                                     <input type="checkbox">Remember Me
                                 </div>
                                 <div class="form-group">
-                                    <input type="submit" value="Login"class="btn float-right login_btn">
+                                    <input type="submit" value="Login" class="btn float-right login_btn">
                                 </div>
                             </form>
                         </div>
                         <div class="card-footer">
+                            <div class="d-flex justify-content-center links">
+                                <li><a style="font-family: 'Poppins', sans-serif;font-size:40px;" href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a style="font-family: 'Poppins', sans-serif;font-size:40px;" href="#"><i class="fab fa-google"></i></a></li>
+
+
+                                </ul>
+                            </div>
                             <div class="d-flex justify-content-center links">
                                 Don't have an account?<a href="signup.php">Sign Up</a>
                             </div>
