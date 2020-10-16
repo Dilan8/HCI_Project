@@ -34,10 +34,10 @@
                      <div class="single-footer links">
                          <h4 style="font-family: 'Poppins', sans-serif;" >Customer Service</h4>
                          <ul>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Payment Methods</a></li>
+                             <li><a style="font-family: 'Poppins', sans-serif;"  href="BranchNetwork.php">Branch Network</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Money-back</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Returns</a></li>
-                             <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Shipping</a></li>
+                             <li><a style="font-family: 'Poppins', sans-serif;"  href="Shipping.php">Shipping</a></li>
                              <li><a style="font-family: 'Poppins', sans-serif;"  href="#">Privacy Policy</a></li>
                          </ul>
                      </div>
@@ -171,6 +171,85 @@
       }
     }
     </script>
+
+
+    <script>
+
+$(document).ready(function(e) {
+
+     function showload(){
+         $('#loading_div').show();
+     }
+     function hideload(){
+         $('#loading_div').hide();
+     }
+
+     $('#clearall').click(function(){
+         //alert('sdsds');
+         var width = $(window).width();
+         var height = $(window).height();
+         var left =(width/2)-152;
+         var top = (height/2)-82;
+         showload();
+         $('#modal_dialog2').css('left',left);
+         $('#modal_dialog2').css('top',top);
+         $('.dialog_title2').html('Are you sure want to clear all the items from the cart ?');
+
+         $('#modal_dialog2').show();
+         $('#modal_cancel2').click(function(){
+                 $('#modal_dialog2').hide();
+                 $('#modal_ok2').unbind('click');
+                 hideload();20
+         });
+        $('#modal_ok2').click(function(){
+            
+         $('#modal_dialog2').hide();
+         $.ajax({
+             url: '/Cart/ajaxclearall',
+             type: "GET",
+             success: function( msg ){
+                 //alert(msg);
+                 $('.tr_items').remove();
+                 //$('.shipprice').remove();
+                 $('.shipprice').html('0.00');
+                 $('#totalpriceside').html('0.00');
+                 $('#itemcount').html('0');
+                 $('#totalprice2').html('0.00');
+                 $('#ctitems').html('0');
+                 $('#totalprice').html('0.00');
+                 //var splitarr = msg.split('#'); 
+                 //$('#ctitems').html(splitarr[1]);
+                 //$('#totalprice').html(splitarr[0]);
+
+                 $('#actionmessage').html('Your cart is empty');
+                 var getcartboxpos = $('#cartsection').position();
+                 //$('.arrow_box').css('left',getcartboxpos.left);
+                 //$('.arrow_box').fadeIn('fast');
+                 $('.arrow_box').animate({
+                     top: getcartboxpos.top+120
+                   }, {
+                     duration: 200,
+                     specialEasing: {
+                       width: 'linear',
+                       height: 'easeOutBounce'
+                     },
+                     complete: function() {
+                         $('#cartsection').addClass('outerglow');
+                         hideactionmessage();
+                         hideinnerglow()
+                     }
+                   });
+
+                // $('.arrow_box').fadeIn('fast');
+                 return false;
+             }
+         });
+         hideload();
+         });
+     });
+ });
+
+</script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
  </body>
 

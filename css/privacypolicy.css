@@ -1,0 +1,127 @@
+#container {
+    background: linear-gradient(180deg, white, #007bff);
+    width: 100%;
+	background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 15px 20px 0px rgba(0, 0, 0, 0.1);    
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 50%;
+  padding: 0px 10px;
+  
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 50px -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 50%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding:5px;
+  text-align: center;
+  background-color:  #66ccff;
+}
+
+.backimg1 {
+    background: url(../images/AddToCard1.jpg);
+    background-size: cover;
+    height:395px;
+    z-index: 1;
+}
+
+
+.backimg2 {
+    background: url(../images/Checkout3.jpg);
+    background-size: cover;
+    height:390px;
+    z-index: 1;
+	margin-top:10px;
+}
+	
+	
+#container h1{
+	padding:10px;
+	margin:0px;
+	color:#80ced6;
+}
+
+ 
+#cartbtnsectiontop a{
+	padding:10px;
+	margin:50px 50px 0px 200px ;
+	
+	
+}
+
+#cartsection .leftsection{
+	margin-top: 10px;
+	height:780px;
+	padding: 20px;
+	
+	
+}
+
+.leftsection{
+	
+	background: url(../images/checkout2.jpg);
+    background-size: cover;
+    height:500px;
+    z-index: 1;	
+}
+	
+#cartsection .rightsection{
+	float:right;
+	background-color: rgba(255,255,0,0.3);;
+  box-shadow: 10px 10px 5px grey;
+  margin:50px;
+}	
+	
+
+
+.rightsection .cartsumtitle h2{
+	color:rgb(0, 0, 255);
+	margin-top:10px;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+
+.rightsection .cartsumtitle h3{
+	color:rgb(0, 0, 255);
+	font-family: "Times New Roman", Times, serif;
+	margin-top:10px;
+	
+}
+
+
+
+

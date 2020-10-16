@@ -48,10 +48,11 @@
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="css/ContactUs.css">
-    <link rel="stylesheet" href="css/signin.css">
-    <link rel="stylesheet" href="css/signup.css">
-    <link rel="stylesheet" href="css/account.css">
+  
+	<link rel="stylesheet" href="css/Shipping.css">
+
+
+
 </head>
 
 <body class="js">
@@ -219,3 +220,29 @@
         </div>
         <!--/ End Header Inner -->
     </header>
+<div id="content">
+	 <h1 class="commontitle" style="text-align:center;">Shipping and Returns</h1>
+	<img style=" width: 300px;height: 200px; margin: 50px;" src="images/shipping1.jpg" alt="shipping img">
+	<img style=" width: 300px;height: 200px; margin: 50px;" src="images/shipping3.jpg" alt="shipping img">
+	<img style=" width: 300px;height: 200px; margin: 50px;" src="images/shipping4.jpg" alt="shipping img">
+
+	<div itemscope="" itemtype="https://schema.org/Article" id="rightposcont" class="homecontainer" style="background-image: url('images/shipping2.jpg');">
+          
+       	 
+			<p style="font-weight: bold; color:black;">We strive to maintain excellence in customer service and customer satisfaction. We guarantee optimal condition of every book delivered to the customer as each item will only be dispatched after thorough examination.</p>
+			<p style=" color:black;">For all areas we deliver by normal postal services and delivered within 7-14 days.An extra fee of 5% on the marked price of the book will be added as the handling Charges, and shipping costs are automatically calculated for buyer, based on the buyer’s Postal code and the weight of the package. , Option  <span style="font-weight: bold; color:black;">"Register post in Sri Lanka"</span> Is only available if the shipping address is located in Sri lanka.</p><p style="color:black;">>If you are dissatisfied with your purchase for any reason, please contact us for a refund of the cost borne by you.To be eligible for a full refund of the purchase price, please return the item directly to the bookseller within <span style="font-weight: bold;">14 days of receipt and in the same condition you received it in.</span></p>
+			<p style=" color:black;">Sarasavi will also refund shipping costs if such costs are applicable and the return was a result of an error on the bookseller's. If the return was not as a result of an error on the part of the bookseller, you will be responsible for all shipping costs.</p>
+			<p style="color:black;">
+				The following details must be given with your refund request
+			</p>
+			<ol>
+				<li style="color:black;">>Your Order Number</li>
+				<li style="color:black;">E-mail Address</li>
+			</ol>
+			<p style="color:black;">If your purchase is though a your credit card, funds will be deposited back in your credit card . Once your refund has been credited, we will send you confirmation of the refund via email.</p>
+		
+<!--We make sure that the orders will be delivered within 3-5 business days. On most cases we deliver on the same date. -->        
+	</div>
+
+</div>
+<?php include 'footer.php'; ?>

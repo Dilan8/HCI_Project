@@ -253,6 +253,7 @@
                       <div class="form-group focused">
                         <label class="form-control-label" for="input-last-name">Password</label>
                         <input type="password" id="input-last-name" required class="form-control form-control-alternative" value="************">
+                        
                       </div>
                     </div>
                   </div>

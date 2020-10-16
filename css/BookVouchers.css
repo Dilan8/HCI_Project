@@ -1,0 +1,70 @@
+h1{
+	align:center;
+	color:#ff0000;
+	width:1300px;
+	height:50px;
+	font-size:50px;
+	margin: 10px 20px;
+
+}
+
+p{
+	font-weight:bold;
+	 color:#e6e6fa;
+	font-size:20px;
+}
+
+body
+{
+background:url(BG_Contact.jpg);	
+}
+
+#p1,#p2,#p3
+{
+font-size:22px;
+color:#ff0000;
+}
+
+#main{
+width:960px;
+margin:50px auto;
+font-family:raleway;
+}
+
+
+
+
+#form_layout
+{
+width:650px;
+float:center;
+border-radius: 15px;
+font-family:raleway;
+border: 2px solid #e6e6fa;
+padding: 10px 40px 25px;
+margin-top: -2px;
+}
+
+input[type=text], select{
+	width: 220px;
+	padding:20px,20px;
+	margin: 10px 0px;
+	display: inline-block;
+	border:1px solid #ff0000;
+	border-radius: 10px;
+	border-sizing: border-box;
+	font-size:20px;
+}
+
+input[type=submit]{
+	width: 150px;
+	height: 45px;
+	background-color: #00ffff;
+	color:#000000;
+	padding:14px,20px;
+	margin: 8px 0;	
+	border:none;
+	border-radius: 4px;
+	cursor:pointer;
+	font-size:25px;
+}

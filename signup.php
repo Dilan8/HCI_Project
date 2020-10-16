@@ -41,12 +41,14 @@
                                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                                         </div>
                                         <input type="password" id="password" class="form-control" name="password" placeholder="password">
+                                        <span class="input-group-text"><i style="cursor: pointer;" class="far fa-eye" id="togglePassword" aria-hidden="true"></i></span>
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                                         </div>
                                         <input type="password" id="confirmPassword" class="form-control" name="confirmPassword" placeholder="confirm password">
+                                        <span class="input-group-text"><i style="cursor: pointer;" class="far fa-eye" id="togglePassword" aria-hidden="true"></i></span>
                                     </div>
 
                                     <div class="form-group" style="position: relative; left:10px;">
