@@ -17,37 +17,37 @@
                             </div>
                             <div class="card-body">
                         
-                                <form id="signupForm" novalidate action="signin.php">
+                                <form id="signupForm"  action="signin.php">
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-user"></i></span>
                                         </div>
-                                        <input type="text" data-validation="required" class="form-control" placeholder="username">
+                                        <input type="text" data-validation="required" class="form-control" placeholder="username" required>
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-phone"></i></span>
                                         </div>
-                                        <input data-validation="required phone" class="form-control" placeholder="mobile">
+                                        <input data-validation="required phone" class="form-control" placeholder="mobile" required>
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-envelope"></i></span>
                                         </div>
-                                        <input data-validation="required email"  class="form-control"  placeholder="Email">
+                                        <input data-validation="required email"  class="form-control"  placeholder="Email" required>
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                                         </div>
-                                        <input type="password" id="password" class="form-control" name="password" placeholder="password">
+                                        <input type="password" id="password" class="form-control" name="password" placeholder="password" required>
                                         <span class="input-group-text"><i style="cursor: pointer;" class="far fa-eye" id="togglePassword" aria-hidden="true"></i></span>
                                     </div>
                                     <div class="input-group form-group">
                                         <div class="input-group-prepend">
                                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                                         </div>
-                                        <input type="password" id="confirmPassword" class="form-control" name="confirmPassword" placeholder="confirm password">
+                                        <input type="password" id="confirmPassword" class="form-control" name="confirmPassword" placeholder="confirm password" required>
                                         <span class="input-group-text"><i style="cursor: pointer;" class="far fa-eye" id="togglePassword" aria-hidden="true"></i></span>
                                     </div>
 
