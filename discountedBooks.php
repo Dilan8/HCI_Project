@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Title Tag  -->
-    <title>Sarasavi Book Shop</title>
+    <title>Discounted Book list</title>
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="">
      <!-- Web Font -->
@@ -203,10 +203,11 @@
                                     <div class="navbar-collapse">
                                         <div class="nav-inner">
                                             <ul class="nav main-menu menu navbar-nav">
-                                                <li ><a style="font-family: 'Poppins', sans-serif;" href="index.php">Home</a></li>
-                                                <li class="active" ><a style="font-family: 'Poppins', sans-serif;"  href="sarasavipub.php">Sarasavi Publications </a></li>
+                                            <li><a style="font-family: 'Poppins', sans-serif;" href="index.php">Home</a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;" href="sarasavipub.php">Sarasavi Publications </a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;" href="BookVouchers.php">Book Vouchers</a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="international.php">International Booklists </a></li>
-                                                <li><a style="font-family: 'Poppins', sans-serif;" href="discountedBooks.php">Doha Discounted Books </a></li>
+                                                <li class="active"><a style="font-family: 'Poppins', sans-serif;" href="discountedBooks.php">Doha Discounted Books </a></li>
 
 
 
@@ -226,285 +227,24 @@
     <br>
     <br>
 
-    <!-- Start Most Popular -->
-    <div class="product-area most-popular section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title">
-                        <h2>New Arrivals</h2><p>  <a href="bookpage.php"><b> More </b> </a> </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="owl-carousel popular-slider">
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <span class="out-of-stock">Limited Stock</span>
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                    
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                   
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                    
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                       
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                    
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Most Popular Area -->
-
-    <!-- Start Most Popular -->
-    <div class="product-area most-popular section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-title">
-                        <h2>Best Selling Sinhala Books</h2><p>  <a href="bookpage.php"><b> More </b> </a> </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="owl-carousel popular-slider">
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <span class="out-of-stock">Limited Stock</span>
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                    
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                   
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                    
-                                    <span>LKR 4000</span>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                        <!-- Start Single Product -->
-                        <div class="single-product">
-                            <div class="product-img">
-                                <a href="productdetail.php">
-                                    <img class="default-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-                                    <img class="hover-img" src="https://images-na.ssl-images-amazon.com/images/I/51nTKunde0L._SX319_BO1,204,203,200_.jpg" alt="#">
-
-                                </a>
-                                <div class="button-head">
-                                    <div class="product-action">
-                                        
-                                        <a title="Wishlist" href="#"><i class=" ti-heart "></i><span>Add to Wishlist</span></a>
-                                    </div>
-                                    <div class="product-action-2">
-                                        <a title="Add to cart" href="#">Add to cart</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="product-content">
-                                <h3><a href="productdetail.php">Davinci Code</a></h3>
-                                <div class="product-price">
-                                    
-                                    <span>LKR 4000</span>
-                                   
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Single Product -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End Most Popular Area -->
 
     <!-- Start Shop Home List  -->
     <section class="shop-home-list section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-12">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="shop-section-title">
-                                <h1>TOP BEST SELLING</h1>
-                            </div>
-                        </div>
-                    </div>
                     <!-- Start Single List  -->
                     <div class="single-list">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="list-image overlay">
-                                    <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Inferno-cover.jpg" alt="#">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41aIidpbKwL._AC_SX184_.jpg" alt="#">
                                     <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 no-padding">
                                 <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Inferno</a></h4>
+                                    <h4 class="title"><a href="productdetail.php">ARABIC LANGUAGE BOOK 1</a></h4>
                                     <div class="quickview-ratting-review">
                                     <div class="quickview-ratting-wrap">
                                         <div class="quickview-ratting">
@@ -514,13 +254,13 @@
                                             <i class="yellow fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                         </div>
-                                        <a href="#"> (100 customer review)</a>
+                                        <a href="#"> by N/A</a>
                                     </div>
                                     <div class="quickview-stock">
                                         <span><i class="fa fa-check-circle-o"></i> in stock</span>
                                     </div>
                                 </div>
-                                    <p class="price with-discount">LKR 4000</p>
+                                    <p class="price with-discount">	LKR 450.00</p>
                                 </div>
                             </div>
                         </div>
@@ -531,13 +271,13 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="list-image overlay">
-                                    <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Inferno-cover.jpg" alt="#">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41TJxOmPRjL._AC_SX184_.jpg" alt="#">
                                     <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 no-padding">
                                 <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Inferno</a></h4>
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - BOOK 8</a></h4>
                                     <div class="quickview-ratting-review">
                                     <div class="quickview-ratting-wrap">
                                         <div class="quickview-ratting">
@@ -547,13 +287,13 @@
                                             <i class="yellow fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                         </div>
-                                        <a href="#"> (100 customer review)</a>
+                                        <a href="#"> by WINITHA JINASENA</a>
                                     </div>
                                     <div class="quickview-stock">
                                         <span><i class="fa fa-check-circle-o"></i> in stock</span>
                                     </div>
                                 </div>
-                                    <p class="price with-discount">LKR 4000</p>
+                                    <p class="price with-discount">LKR 450.00</p>
                                 </div>
                             </div>
                         </div>
@@ -564,13 +304,13 @@
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="list-image overlay">
-                                    <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Inferno-cover.jpg" alt="#">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg" alt="#">
                                     <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 no-padding">
                                 <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Inferno</a></h4>
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - GRADE 2 STUDENTS</a></h4>
                                     <div class="quickview-ratting-review">
                                     <div class="quickview-ratting-wrap">
                                         <div class="quickview-ratting">
@@ -580,115 +320,7 @@
                                             <i class="yellow fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                         </div>
-                                        <a href="#"> (100 customer review)</a>
-                                    </div>
-                                    <div class="quickview-stock">
-                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
-                                    </div>
-                                </div>
-                                    <p class="price with-discount">LKR 4000</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single List  -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-12">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="shop-section-title">
-                                <h1>ENGLISH BOOKS</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Start Single List  -->
-                    <div class="single-list">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-12">
-                                <div class="list-image overlay">
-                                    <img src="https://m.media-amazon.com/images/I/91UR2bAd8FL.jpg" alt="#">
-                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-12 no-padding">
-                                <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Origin</a></h4>
-                                    <div class="quickview-ratting-review">
-                                    <div class="quickview-ratting-wrap">
-                                        <div class="quickview-ratting">
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                        </div>
-                                        <a href="#"> (100 customer review)</a>
-                                    </div>
-                                    <div class="quickview-stock">
-                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
-                                    </div>
-                                </div>
-                                    <p class="price with-discount">LKR 4000</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single List  -->
-                    <!-- Start Single List  -->
-                    <div class="single-list">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-12">
-                                <div class="list-image overlay">
-                                    <img src="https://m.media-amazon.com/images/I/91UR2bAd8FL.jpg" alt="#">
-                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-12 no-padding">
-                                <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Origin</a></h4>
-                                    <div class="quickview-ratting-review">
-                                    <div class="quickview-ratting-wrap">
-                                        <div class="quickview-ratting">
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                        </div>
-                                        <a href="#"> (100 customer review)</a>
-                                    </div>
-                                    <div class="quickview-stock">
-                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
-                                    </div>
-                                </div>
-                                    <p class="price with-discount">LKR 4000</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End Single List  -->
-                    <!-- Start Single List  -->
-                    <div class="single-list">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-12">
-                                <div class="list-image overlay">
-                                    <img src="https://m.media-amazon.com/images/I/91UR2bAd8FL.jpg" alt="#">
-                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-12 no-padding">
-                                <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Origin</a></h4>
-                                    <div class="quickview-ratting-review">
-                                    <div class="quickview-ratting-wrap">
-                                        <div class="quickview-ratting">
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="yellow fa fa-star"></i>
-                                            <i class="fa fa-star"></i>
-                                        </div>
-                                        <a href="#"> (100 customer review)</a>
+                                        <a href="#"> by N/A</a>
                                     </div>
                                     <div class="quickview-stock">
                                         <span><i class="fa fa-check-circle-o"></i> in stock</span>
@@ -702,25 +334,18 @@
                     <!-- End Single List  -->
                 </div>
                 <div class="col-lg-4 col-md-6 col-12">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="shop-section-title">
-                                <h1>TOP VIEWD IN PREVIOUS WEEKS</h1>
-                            </div>
-                        </div>
-                    </div>
                     <!-- Start Single List  -->
                     <div class="single-list">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="list-image overlay">
-                                    <img src="https://m.media-amazon.com/images/I/413CecXf4ML.jpg" alt="#">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41aIidpbKwL._AC_SX184_.jpg" alt="#">
                                     <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 no-padding">
                                 <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Angels and Demons</a></h4>
+                                    <h4 class="title"><a href="productdetail.php">ARABIC LANGUAGE BOOK 1</a></h4>
                                     <div class="quickview-ratting-review">
                                     <div class="quickview-ratting-wrap">
                                         <div class="quickview-ratting">
@@ -730,7 +355,73 @@
                                             <i class="yellow fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                         </div>
-                                        <a href="#"> (100 customer review)</a>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">	LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41TJxOmPRjL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - BOOK 8</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by WINITHA JINASENA</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - GRADE 2 STUDENTS</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
                                     </div>
                                     <div class="quickview-stock">
                                         <span><i class="fa fa-check-circle-o"></i> in stock</span>
@@ -742,18 +433,21 @@
                         </div>
                     </div>
                     <!-- End Single List  -->
+                    
+                </div>
+                <div class="col-lg-4 col-md-6 col-12">
                     <!-- Start Single List  -->
                     <div class="single-list">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="list-image overlay">
-                                    <img src="https://m.media-amazon.com/images/I/413CecXf4ML.jpg" alt="#">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41aIidpbKwL._AC_SX184_.jpg" alt="#">
                                     <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 no-padding">
                                 <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Angels and Demons</a></h4>
+                                    <h4 class="title"><a href="productdetail.php">ARABIC LANGUAGE BOOK 1</a></h4>
                                     <div class="quickview-ratting-review">
                                     <div class="quickview-ratting-wrap">
                                         <div class="quickview-ratting">
@@ -763,7 +457,73 @@
                                             <i class="yellow fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                         </div>
-                                        <a href="#"> (100 customer review)</a>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">	LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41TJxOmPRjL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - BOOK 8</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by WINITHA JINASENA</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - GRADE 2 STUDENTS</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
                                     </div>
                                     <div class="quickview-stock">
                                         <span><i class="fa fa-check-circle-o"></i> in stock</span>
@@ -775,18 +535,20 @@
                         </div>
                     </div>
                     <!-- End Single List  -->
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
                     <!-- Start Single List  -->
                     <div class="single-list">
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="list-image overlay">
-                                    <img src="https://m.media-amazon.com/images/I/413CecXf4ML.jpg" alt="#">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41aIidpbKwL._AC_SX184_.jpg" alt="#">
                                     <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12 no-padding">
                                 <div class="content">
-                                    <h4 class="title"><a href="productdetail.php">Angels and Demons</a></h4>
+                                    <h4 class="title"><a href="productdetail.php">ARABIC LANGUAGE BOOK 1</a></h4>
                                     <div class="quickview-ratting-review">
                                     <div class="quickview-ratting-wrap">
                                         <div class="quickview-ratting">
@@ -796,7 +558,275 @@
                                             <i class="yellow fa fa-star"></i>
                                             <i class="fa fa-star"></i>
                                         </div>
-                                        <a href="#"> (100 customer review)</a>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">	LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41TJxOmPRjL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - BOOK 8</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by WINITHA JINASENA</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - GRADE 2 STUDENTS</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 4000</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41aIidpbKwL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">ARABIC LANGUAGE BOOK 1</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">	LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41TJxOmPRjL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - BOOK 8</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by WINITHA JINASENA</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - GRADE 2 STUDENTS</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 4000</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    </div>
+                <div class="col-lg-4 col-md-6 col-12">
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41aIidpbKwL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">ARABIC LANGUAGE BOOK 1</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">	LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/41TJxOmPRjL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - BOOK 8</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by WINITHA JINASENA</a>
+                                    </div>
+                                    <div class="quickview-stock">
+                                        <span><i class="fa fa-check-circle-o"></i> in stock</span>
+                                    </div>
+                                </div>
+                                    <p class="price with-discount">LKR 450.00</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single List  -->
+                    <!-- Start Single List  -->
+                    <div class="single-list">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-12">
+                                <div class="list-image overlay">
+                                    <img src="https://images-na.ssl-images-amazon.com/images/I/413kTDJpUKL._AC_SX184_.jpg" alt="#">
+                                    <a href="productdetail.php" class="buy"><i class="fa fa-shopping-bag"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-12 no-padding">
+                                <div class="content">
+                                    <h4 class="title"><a href="productdetail.php">BUDDHIST WAY OF LIFE - GRADE 2 STUDENTS</a></h4>
+                                    <div class="quickview-ratting-review">
+                                    <div class="quickview-ratting-wrap">
+                                        <div class="quickview-ratting">
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="yellow fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                        </div>
+                                        <a href="#"> by N/A</a>
                                     </div>
                                     <div class="quickview-stock">
                                         <span><i class="fa fa-check-circle-o"></i> in stock</span>
@@ -817,50 +847,7 @@
 
 
 
-    <!-- Start Shop Services Area -->
-    <section class="shop-services section home">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-12">
-                    <!-- Start Single Service -->
-                    <div class="single-service">
-                        <i class="ti-rocket"></i>
-                        <h4>Free shiping</h4>
-                        <p>Orders over $100</p>
-                    </div>
-                    <!-- End Single Service -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <!-- Start Single Service -->
-                    <div class="single-service">
-                        <i class="ti-reload"></i>
-                        <h4>Free Return</h4>
-                        <p>Within 30 days returns</p>
-                    </div>
-                    <!-- End Single Service -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <!-- Start Single Service -->
-                    <div class="single-service">
-                        <i class="ti-lock"></i>
-                        <h4>Secure Payment</h4>
-                        <p>100% secure payment</p>
-                    </div>
-                    <!-- End Single Service -->
-                </div>
-                <div class="col-lg-3 col-md-6 col-12">
-                    <!-- Start Single Service -->
-                    <div class="single-service">
-                        <i class="ti-tag"></i>
-                        <h4>Best Price</h4>
-                        <p>Guaranteed price</p>
-                    </div>
-                    <!-- End Single Service -->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Shop Services Area -->
+    
 
     <!-- Start Shop Newsletter  -->
     <section class="shop-newsletter section">

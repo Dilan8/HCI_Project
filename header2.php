@@ -203,7 +203,7 @@
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="sarasavipub.php">Sarasavi Publications </a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="BookVouchers.php">Book Vouchers</a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="international.php">International Booklists </a></li>
-                                                <li><a style="font-family: 'Poppins', sans-serif;" href="#">Doha Discounted Books </a></li>
+                                                <li><a style="font-family: 'Poppins', sans-serif;" href="discountedBooks.php">Doha Discounted Books </a></li>
 
 
 
