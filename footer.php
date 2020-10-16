@@ -76,7 +76,7 @@
                  <div class="row">
                      <div class="col-lg-6 col-12">
                          <div class="left">
-                             <p style="font-family: 'Poppins', sans-serif;" >Copyright © 2020 <a style="font-family: 'Poppins', sans-serif;"  href="www.sarasavi.lk" target="_blank">Wpthemesgrid</a> - All Rights Reserved.</p>
+                             <p style="font-family: 'Poppins', sans-serif;" >Copyright © 2020 <a style="font-family: 'Poppins', sans-serif;"  href="www.sarasavi.lk" target="_blank">sarasavi publication</a> - All Rights Reserved.</p>
                          </div>
                      </div>
                      <div class="col-lg-6 col-12">

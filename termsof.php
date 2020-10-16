@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/termsof.css">
 </head>
 
-<?php include 'header.php'; ?>
+<?php include 'header2.php'; ?>
 
 <body>
 <div id="mainpage">

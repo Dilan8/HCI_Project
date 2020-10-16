@@ -203,7 +203,7 @@
                                     <div class="navbar-collapse">
                                         <div class="nav-inner">
                                             <ul class="nav main-menu menu navbar-nav">
-                                            <li><a style="font-family: 'Poppins', sans-serif;" href="index.php">Home</a></li>
+                                            <li><a style="font-family: 'Poppins', sans-serif;" href="home.php">Home</a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="sarasavipub.php">Sarasavi Publications </a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="BookVouchers.php">Book Vouchers</a></li>
                                                 <li><a style="font-family: 'Poppins', sans-serif;" href="international.php">International Booklists </a></li>
