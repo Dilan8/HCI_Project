@@ -11,7 +11,7 @@
             <div class="row">
                 <div class="col-lg-6 col-12 padding-right">
                     <div class="image">
-                        <img src="https://srilankamirror.com/media/k2/items/cache/9720a90ebf8881b38a503322d0268728_XL.jpg?t=20180922_054209" alt="#">
+                        <img src="images/b51.jpg" alt="#">
                     </div>
                 </div>
                 <div class="col-lg-6 col-12 padding-left">
